@@ -1,0 +1,876 @@
+[
+  {
+    "id": "M193",
+    "name": "Abe Lincoln Pool",
+    "borough": "Manhattan",
+    "address": "5th Avenue & E. 135th Street",
+    "url": "https://www.nycgovparks.org/parks/M193/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8121,
+    "lng": -73.9372,
+    "telephone": "(212) 491-1714",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/abelincoln-content1.jpg"
+  },
+  {
+    "id": "M164",
+    "name": "Asser Levy Pool",
+    "borough": "Manhattan",
+    "address": "Asser Levy Place and E. 23rd Street",
+    "url": "https://www.nycgovparks.org/parks/M164/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7362,
+    "lng": -73.9757,
+    "telephone": "(212) 447-2020",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/asser-content1.jpg"
+  },
+  {
+    "id": "M270",
+    "name": "Dry Dock Pool",
+    "borough": "Manhattan",
+    "address": "E. 10th St. between Aves. C and D",
+    "url": "https://www.nycgovparks.org/parks/M270/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7255,
+    "lng": -73.9758,
+    "telephone": "(212) 677-4481",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/drydockpool-content1.jpg"
+  },
+  {
+    "id": "M220",
+    "name": "Frederick Douglass Pool",
+    "borough": "Manhattan",
+    "address": "Amsterdam Ave. between 100th & 102nd Streets",
+    "url": "https://www.nycgovparks.org/parks/M220/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7969,
+    "lng": -73.9678,
+    "telephone": "(212) 316-3241",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/frederick-content1.jpg"
+  },
+  {
+    "id": "M010",
+    "name": "Gottesman Pool at the Davis Center",
+    "borough": "Manhattan",
+    "address": "110th Street & Lenox Avenue",
+    "url": "https://www.nycgovparks.org/parks/M010/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7965,
+    "lng": -73.9545,
+    "telephone": "(212-534-7639) ",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/central-content1.jpg"
+  },
+  {
+    "id": "M033",
+    "name": "Hamilton Fish Pool",
+    "borough": "Manhattan",
+    "address": "Pitt Street and Houston Street",
+    "url": "https://www.nycgovparks.org/parks/M033/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7198,
+    "lng": -73.981,
+    "telephone": "(212) 387-7691",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/hamilton-content1.jpg"
+  },
+  {
+    "id": "M037",
+    "name": "Highbridge Pool",
+    "borough": "Manhattan",
+    "address": "Amsterdam Ave. and W. 173rd Street",
+    "url": "https://www.nycgovparks.org/parks/M037/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8424,
+    "lng": -73.9334,
+    "telephone": "(212) 927-2400",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/highbridge-content1.jpg"
+  },
+  {
+    "id": "M014",
+    "name": "Jackie Robinson Pool",
+    "borough": "Manhattan",
+    "address": "Bradhurst Avenue and W. 146th Street",
+    "url": "https://www.nycgovparks.org/parks/M014/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8242,
+    "lng": -73.9428,
+    "telephone": "(212) 234-9606",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/jackie-content1.jpg"
+  },
+  {
+    "id": "M045",
+    "name": "John Jay Pool",
+    "borough": "Manhattan",
+    "address": "East of York Avenue on 77th St.",
+    "url": "https://www.nycgovparks.org/parks/M045/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Diving Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7694,
+    "lng": -73.9489,
+    "telephone": "(646) 522-1538",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/john-content1.jpg"
+  },
+  {
+    "id": "M058",
+    "name": "Marcus Garvey Pool",
+    "borough": "Manhattan",
+    "address": "124th Street and Fifth Avenue",
+    "url": "https://www.nycgovparks.org/parks/M058/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8052,
+    "lng": -73.9434,
+    "telephone": "(212) 410-2818",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/marcus-content1.jpg"
+  },
+  {
+    "id": "M190",
+    "name": "Sheltering Arms Pool",
+    "borough": "Manhattan",
+    "address": "W. 129th Street and Amsterdam Ave.",
+    "url": "https://www.nycgovparks.org/parks/M190/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.815,
+    "lng": -73.9555,
+    "telephone": "(212) 662-6191",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/sheltering-content1.jpg"
+  },
+  {
+    "id": "M047",
+    "name": "Thomas Jefferson Pool",
+    "borough": "Manhattan",
+    "address": "E. 112th Street and First Avenue",
+    "url": "https://www.nycgovparks.org/parks/M047/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7935,
+    "lng": -73.9365,
+    "telephone": "(212) 860-1372",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/thomas-jefferson-content1.jpg"
+  },
+  {
+    "id": "M088",
+    "name": "Tompkins Square Pool",
+    "borough": "Manhattan",
+    "address": "Ave. A between E. 7th & E. 10th Streets",
+    "url": "https://www.nycgovparks.org/parks/M088/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.7269,
+    "lng": -73.981,
+    "telephone": "(212) 387-6784",
+    "image": "https://www.nycgovparks.org/"
+  },
+  {
+    "id": "M103",
+    "name": "Tony Dapolito Pool",
+    "borough": "Manhattan",
+    "address": "Clarkson St. and Seventh Ave. South",
+    "url": "https://www.nycgovparks.org/parks/M103/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Diving Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": true,
+    "accessible": true,
+    "lat": 40.7296,
+    "lng": -74.0054,
+    "telephone": "(646) 300-2271",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/tony-content1.jpg"
+  },
+  {
+    "id": "M069",
+    "name": "Vesuvio Pool",
+    "borough": "Manhattan",
+    "address": "Thompson St. between Spring & Prince Streets",
+    "url": "https://www.nycgovparks.org/parks/M069/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7256,
+    "lng": -74.0024,
+    "telephone": "(212) 343-0959",
+    "image": "https://www.nycgovparks.org/"
+  },
+  {
+    "id": "M273",
+    "name": "Wagner Pool",
+    "borough": "Manhattan",
+    "address": "E. 124th Street between First and Second Avenues",
+    "url": "https://www.nycgovparks.org/parks/M273/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.802,
+    "lng": -73.9333,
+    "telephone": "(212) 534-4238",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/wagner-content1.jpg"
+  },
+  {
+    "id": "Q004",
+    "name": "Astoria Pool",
+    "borough": "Queens",
+    "address": "19th Street and 23rd Drive",
+    "url": "https://www.nycgovparks.org/parks/Q004/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7788,
+    "lng": -73.9227,
+    "telephone": "(718) 626-8620",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/astoria-content1.jpg"
+  },
+  {
+    "id": "Q441",
+    "name": "Fisher Pool",
+    "borough": "Queens",
+    "address": "99th Street and 32nd Avenue",
+    "url": "https://www.nycgovparks.org/parks/Q441/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7589,
+    "lng": -73.8693,
+    "telephone": "(718) 779-8356",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/fisher-content1.jpg"
+  },
+  {
+    "id": "Q458",
+    "name": "Fort Totten Pool",
+    "borough": "Queens",
+    "address": "338 Story Avenue",
+    "url": "https://www.nycgovparks.org/parks/Q458/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool",
+      "Outdoor Diving Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7924,
+    "lng": -73.7746,
+    "telephone": "(718) 224-4031",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/fort-content1.jpg"
+  },
+  {
+    "id": "Q121",
+    "name": "Liberty Pool",
+    "borough": "Queens",
+    "address": "173rd Street and 106th Avenue",
+    "url": "https://www.nycgovparks.org/parks/Q121/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7018,
+    "lng": -73.7841,
+    "telephone": "(718) 657-4995",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/detkeithl-content1.jpg"
+  },
+  {
+    "id": "Q364",
+    "name": "Marie Curie Park Pool",
+    "borough": "Queens",
+    "address": "211th Street & 46th Avenue",
+    "url": "https://www.nycgovparks.org/parks/Q364/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.7569,
+    "lng": -73.7716,
+    "telephone": "(718) 423-0762",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/mariecurie-content1.jpg"
+  },
+  {
+    "id": "Q327",
+    "name": "PS 186 Playground Pool",
+    "borough": "Queens",
+    "address": "Little Neck Parkway & 72nd Avenue",
+    "url": "https://www.nycgovparks.org/parks/Q327/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.7498,
+    "lng": -73.7206,
+    "telephone": "(718) 347-2945",
+    "image": "https://www.nycgovparks.org/"
+  },
+  {
+    "id": "Q031",
+    "name": "Windmuller Pool",
+    "borough": "Queens",
+    "address": "54th Street & 39th Road",
+    "url": "https://www.nycgovparks.org/parks/Q031/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.7475,
+    "lng": -73.9107,
+    "telephone": "(718) 651-8247",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/windmuller-content1.jpg"
+  },
+  {
+    "id": "B008",
+    "name": "Betsy Head Pool",
+    "borough": "Brooklyn",
+    "address": "Boyland, Livonia and Dumont Avenues",
+    "url": "https://www.nycgovparks.org/parks/B008/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6629,
+    "lng": -73.9127,
+    "telephone": "(718) 257-1635/6",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/betsy-content1.jpg"
+  },
+  {
+    "id": "B310",
+    "name": "Bushwick Pool",
+    "borough": "Brooklyn",
+    "address": "Humboldt Street, Flushing & Bushwick Avenues",
+    "url": "https://www.nycgovparks.org/parks/B310/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.702,
+    "lng": -73.9395,
+    "telephone": "(718) 452-2116",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/bushwick-content1.jpg"
+  },
+  {
+    "id": "B021",
+    "name": "Commodore Barry Pool",
+    "borough": "Brooklyn",
+    "address": "Flushing and Park Avenues, Navy and North Elliot Streets",
+    "url": "https://www.nycgovparks.org/parks/B021/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6978,
+    "lng": -73.978,
+    "telephone": "(718) 243-2593",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/commodore-content1.jpg"
+  },
+  {
+    "id": "B248",
+    "name": "David Fox/PS 251 Pool",
+    "borough": "Brooklyn",
+    "address": "E. 54th Street & Avenue H",
+    "url": "https://www.nycgovparks.org/parks/B248/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.6327,
+    "lng": -73.9237,
+    "telephone": "(718) 531-2437",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/davidfox-content1.jpg"
+  },
+  {
+    "id": "B145",
+    "name": "Douglass and DeGraw Pool",
+    "borough": "Brooklyn",
+    "address": "Third Avenue and Nevins Street",
+    "url": "https://www.nycgovparks.org/parks/B145/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6804,
+    "lng": -73.9859,
+    "telephone": "(718) 625-3268",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/douglasdegraw-content1.jpg"
+  },
+  {
+    "id": "B236",
+    "name": "Glenwood Houses Pool",
+    "borough": "Brooklyn",
+    "address": "Farragut Road & Ralph Avenue",
+    "url": "https://www.nycgovparks.org/parks/B236/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.6365,
+    "lng": -73.9202,
+    "telephone": "(718) 531-2480",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/glenwood-content1.jpg"
+  },
+  {
+    "id": "B260",
+    "name": "Howard Pool",
+    "borough": "Brooklyn",
+    "address": "Glenmore and Mother Gaston Blvd., East New York Avenue",
+    "url": "https://www.nycgovparks.org/parks/B260/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6726,
+    "lng": -73.9091,
+    "telephone": "(718) 385-1023",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/howard-content1.jpg"
+  },
+  {
+    "id": "B269",
+    "name": "Jesse Owens Pool",
+    "borough": "Brooklyn",
+    "address": "117 Stuyvesant Avenue",
+    "url": "https://www.nycgovparks.org/parks/B269/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6917,
+    "lng": -73.9323,
+    "telephone": "(718) 452-0519",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/jesse-owens-content1.jpg"
+  },
+  {
+    "id": "B351",
+    "name": "Kosciuszko Pool",
+    "borough": "Brooklyn",
+    "address": "Marcy Avenue between DeKalb Avenue & Kosciuszko Street",
+    "url": "https://www.nycgovparks.org/parks/B351/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.691,
+    "lng": -73.9503,
+    "telephone": "(718) 622-5271",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/kosciuszko-content1.jpg"
+  },
+  {
+    "id": "B329",
+    "name": "Lindower Park Pool",
+    "borough": "Brooklyn",
+    "address": "E. 60th St, Mill Rd. & Strickland Avenue",
+    "url": "https://www.nycgovparks.org/parks/B329/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.6124,
+    "lng": -73.9113,
+    "telephone": "(718) 531-4852",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/lindower-content1.jpg"
+  },
+  {
+    "id": "B058",
+    "name": "McCarren Park Pool",
+    "borough": "Brooklyn",
+    "address": "McCarren Park",
+    "url": "https://www.nycgovparks.org/parks/B058/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.7201,
+    "lng": -73.9495,
+    "telephone": "311",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/mccarren-content1.jpg"
+  },
+  {
+    "id": "B253",
+    "name": "PS 20 Playground Pool",
+    "borough": "Brooklyn",
+    "address": "Between Clermont Ave. & Adelphi St.",
+    "url": "https://www.nycgovparks.org/parks/B253/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.6904,
+    "lng": -73.9706,
+    "telephone": "(718) 625-6101",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/ps20playground-content1.jpg"
+  },
+  {
+    "id": "B126",
+    "name": "Red Hook Pool",
+    "borough": "Brooklyn",
+    "address": "Bay and Henry Streets",
+    "url": "https://www.nycgovparks.org/parks/B126/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Olympic Pool"
+    ],
+    "closed": true,
+    "accessible": true,
+    "lat": 40.673,
+    "lng": -74.0043,
+    "telephone": "(718) 722-3211",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/red-content1.jpg"
+  },
+  {
+    "id": "B087",
+    "name": "Sunset Park Pool",
+    "borough": "Brooklyn",
+    "address": "Seventh Avenue between 41st and 44th Streets",
+    "url": "https://www.nycgovparks.org/parks/B087/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6472,
+    "lng": -74.0026,
+    "telephone": "(718) 972-2180",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/sunset-content1.jpg"
+  },
+  {
+    "id": "X008",
+    "name": "Claremont Pool",
+    "borough": "Bronx",
+    "address": "170th Street and Clay Avenue",
+    "url": "https://www.nycgovparks.org/parks/X008/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.839,
+    "lng": -73.9076,
+    "telephone": "(718) 901-4792",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/claremont-content1.jpg"
+  },
+  {
+    "id": "X010",
+    "name": "Crotona Pool",
+    "borough": "Bronx",
+    "address": "173rd Street and Fulton Avenue",
+    "url": "https://www.nycgovparks.org/parks/X010/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8399,
+    "lng": -73.8981,
+    "telephone": "(646) 581-7535, (718) 299-0791",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/crotona-content1.jpg"
+  },
+  {
+    "id": "X165",
+    "name": "Edenwald Houses Pool",
+    "borough": "Bronx",
+    "address": "Schieffelin Avenue & E. 229th Street",
+    "url": "https://www.nycgovparks.org/parks/X165/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8843,
+    "lng": -73.8453,
+    "telephone": "(718) 515-2160",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/edwald-content1.jpg"
+  },
+  {
+    "id": "X307",
+    "name": "Floating Pool",
+    "borough": "Bronx",
+    "address": "Tiffany Street & Viele Avenue",
+    "url": "https://www.nycgovparks.org/parks/X307/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8044,
+    "lng": -73.8889,
+    "telephone": "(646) 831-6759",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/barretto-content1.jpg"
+  },
+  {
+    "id": "X034",
+    "name": "Foster Pool",
+    "borough": "Bronx",
+    "address": "E. 164th St. bet. Jerome & River Aves.",
+    "url": "https://www.nycgovparks.org/parks/X034/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8319,
+    "lng": -73.9242,
+    "telephone": "646) 678-1938",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/foster-content1.jpg"
+  },
+  {
+    "id": "X196",
+    "name": "Haffen Pool",
+    "borough": "Bronx",
+    "address": "Ely and Burke Avenues",
+    "url": "https://www.nycgovparks.org/parks/X196/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool",
+      "Outdoor Wading Pool"
+    ],
+    "closed": true,
+    "accessible": true,
+    "lat": 40.8744,
+    "lng": -73.8394,
+    "telephone": "(718) 379-2908",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/haffen-content1.jpg"
+  },
+  {
+    "id": "X289",
+    "name": "Mapes Pool",
+    "borough": "Bronx",
+    "address": "E. 180th Street between Mapes & Prospect Avenues",
+    "url": "https://www.nycgovparks.org/parks/X289/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8467,
+    "lng": -73.8862,
+    "telephone": "(646) 823-5185",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/mapes-content1.jpg"
+  },
+  {
+    "id": "X159",
+    "name": "Thompson Pool",
+    "borough": "Bronx",
+    "address": "E. 174th Street & Bronx River Avenue",
+    "url": "https://www.nycgovparks.org/parks/X159/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.8342,
+    "lng": -73.8778,
+    "telephone": "(718) 378-1597",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/thompson-content1.jpg"
+  },
+  {
+    "id": "X092",
+    "name": "Van Cortlandt Pool",
+    "borough": "Bronx",
+    "address": "W. 242nd St. and Broadway",
+    "url": "https://www.nycgovparks.org/parks/X092/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.8899,
+    "lng": -73.896,
+    "telephone": "(718) 548-2415",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/van-content1.jpg"
+  },
+  {
+    "id": "R008",
+    "name": "Faber Pool",
+    "borough": "Staten Island",
+    "address": "Faber Street and Richmond Terrace",
+    "url": "https://www.nycgovparks.org/parks/R008/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": true,
+    "accessible": true,
+    "lat": 40.6412,
+    "lng": -74.1353,
+    "telephone": "(718) 816-5259",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/faber-content1.jpg"
+  },
+  {
+    "id": "R067",
+    "name": "General Douglas Pool",
+    "borough": "Staten Island",
+    "address": "Jefferson Street & Seaver Avenue",
+    "url": "https://www.nycgovparks.org/parks/R067/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.5859,
+    "lng": -74.1006,
+    "telephone": "(718) 987-9800",
+    "image": "https://www.nycgovparks.org/"
+  },
+  {
+    "id": "R043",
+    "name": "Lyons Pool",
+    "borough": "Staten Island",
+    "address": "Pier 6 and Victory Boulevard",
+    "url": "https://www.nycgovparks.org/parks/R043/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Olympic Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6369,
+    "lng": -74.0743,
+    "telephone": "(718) 816-9571",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/lyons-content1.jpg"
+  },
+  {
+    "id": "R061",
+    "name": "Maggie Howard Pool",
+    "borough": "Staten Island",
+    "address": "Tompkins Ave. btwn Hill & Broad Sts.",
+    "url": "https://www.nycgovparks.org/parks/R061/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6228,
+    "lng": -74.0793,
+    "telephone": "(718) 448-5969",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/maggie-content1.jpg"
+  },
+  {
+    "id": "R063",
+    "name": "PS 46 Playground Pool",
+    "borough": "Staten Island",
+    "address": "Parkinson Avenue & Kramer Street",
+    "url": "https://www.nycgovparks.org/parks/R063/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Mini Pool"
+    ],
+    "closed": false,
+    "accessible": false,
+    "lat": 40.5952,
+    "lng": -74.0816,
+    "telephone": "(718) 448-8694",
+    "image": "https://www.nycgovparks.org/"
+  },
+  {
+    "id": "R110",
+    "name": "Tottenville Pool",
+    "borough": "Staten Island",
+    "address": "Hylan Boulevard and Joline Avenue",
+    "url": "https://www.nycgovparks.org/parks/R110/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.5055,
+    "lng": -74.2355,
+    "telephone": "(718) 356-8242",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/tottenville-content1.jpg"
+  },
+  {
+    "id": "R109",
+    "name": "West Brighton Pool",
+    "borough": "Staten Island",
+    "address": "Henderson Avenue between Broadway and Chappel Streets",
+    "url": "https://www.nycgovparks.org/parks/R109/facilities/outdoor-pools",
+    "types": [
+      "Outdoor Wading Pool",
+      "Outdoor Intermediate Pool"
+    ],
+    "closed": false,
+    "accessible": true,
+    "lat": 40.6372,
+    "lng": -74.119,
+    "telephone": "(718) 816-5019",
+    "image": "https://www.nycgovparks.org/facilities/images/pools/westbrighton-content1.jpg"
+  }
+]
